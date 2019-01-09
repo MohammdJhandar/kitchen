@@ -1,5 +1,5 @@
 # kitchen-project
-my first upload on github!
+My first upload on github!
 
-a project i did for school
-html, css, javascript
+A project i did for school
+HTML5, CSS3, JavaScript
